@@ -1,11 +1,11 @@
 Для запуска проекта вам нужно:
 
-# Запуск
+Запуск
 ```bash
 python main.py
 ```
 
-# Установка зависимостей
+Установка зависимостей
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
